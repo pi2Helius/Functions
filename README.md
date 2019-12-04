@@ -1,2 +1,3 @@
-# helius-functions
-Repository to hold firebase function definitions
+# Helius Functions
+
+Este repositório contém as definições de funções do firebase. 
